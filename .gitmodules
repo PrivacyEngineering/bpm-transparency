@@ -1,9 +1,9 @@
-[submodule "modeler-plugin"]
-	path = modeler-plugin
-	url = https://github.com/ciphersmaug/tilt-camunda-plugin
-[submodule "transparency-logging-example"]
-	path = transparency-logging-example
-	url = https://github.com/ciphersmaug/transparency-logging
-[submodule "tilt-logging-descriptor"]
-	path = tilt-logging-descriptor
-	url = https://github.com/ciphersmaug/process_tilt_logger
+[submodule "bpm-transparency-plug-in"]
+	path = bpm-transparency-plug-in
+	url = https://github.com/PrivacyEngineering/bpm-transparency-plug-in.git
+[submodule "bpm-transparency-logger-lib"]
+	path = bpm-transparency-logger-lib
+	url = https://github.com/PrivacyEngineering/bpm-transparency-logger-lib.git
+[submodule "bpm-transparency-demo"]
+	path = bpm-transparency-demo
+	url = https://github.com/PrivacyEngineering/bpm-transparency-demo.git
