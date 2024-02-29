@@ -11,12 +11,13 @@ This repository contains the following submodules:
     - [Demo Data](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard/app/data/)
 
 ## Contribution Overview
+### _Video links are removed for review as they disclose the author names._
+
 Click on the following image to view the paper presentation or view the video here: https://example.com (18:50 min)
 [![Watch the video](./img/Presentation%20Extending%20BPMN%20for%20regulatory%20transparency%20compliance.jpg)](https://example.com)
 
 
 ### Camunda Modeler TILT Plug-in
-_Video links are removed for review as they disclose the author names._
 
 Click on the following image to view an instruction video or view the video here: https://example.com (16:30 min)
 [![Watch the video](./img/UI-Overview.png)](https://example.com)
