@@ -1,23 +1,25 @@
-# Extending BPM with transparency information
-This is the top-Level repository that overarches the contributions of the "Extending BPMN for regulatory transparency compliance" master thesis.
+# Extending BPM for regulatory compliance
+This is the top-Level repository that overarches the contributions of the "Extending business process management for regulatory transparency compliance" paper.
 
 ## Repository Contents
 This repository contains the following submodules:
 
-1. [Modeler Plugin](https://github.com/ciphersmaug/tilt-camunda-plugin/)
-2. [Logging Descriptor](https://github.com/ciphersmaug/process_tilt_logger)
-3. [Transparency logging microservice architecture example](https://github.com/ciphersmaug/transparency-logging)
-    - [Transparency Dashboard](https://github.com/ciphersmaug/transparency-logging/tree/main/src/mining-dashboard)
-    - [Demo Data](https://github.com/ciphersmaug/transparency-logging/tree/main/src/mining-dashboard/app/data/)
+1. [Modeler Plugin](https://github.com/PrivacyEngineering/bpm-transparency-plug-in)
+2. [Logging Descriptor](https://github.com/PrivacyEngineering/bpm-transparency-logger-lib)
+3. [Transparency logging microservice architecture example](https://github.com/PrivacyEngineering/bpm-transparency-demo)
+    - [Transparency Dashboard](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard)
+    - [Demo Data](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard/app/data/)
 
 ## Contribution Overview
-Click on the following image to view the thesis presentation or view the video here: https://youtu.be/egDUmIrMoeg (18:50 min)
-[![Watch the video](./img/Presentation%20Extending%20BPMN%20for%20regulatory%20transparency%20compliance.jpg)](https://youtu.be/egDUmIrMoeg)
+Click on the following image to view the paper presentation or view the video here: https://example.com (18:50 min)
+[![Watch the video](./img/Presentation%20Extending%20BPMN%20for%20regulatory%20transparency%20compliance.jpg)](https://example.com)
 
 
 ### Camunda Modeler TILT Plug-in
-Click on the following image to view an instruction video or view the video here: https://youtu.be/Uxc8UhvdOSc (16:30 min)
-[![Watch the video](./img/UI-Overview.png)](https://youtu.be/Uxc8UhvdOSc)
+_Video links are removed for review as they disclose the author names._
+
+Click on the following image to view an instruction video or view the video here: https://example.com (16:30 min)
+[![Watch the video](./img/UI-Overview.png)](https://example.com)
 
 Video Contents:
 - 0:00 Plug-In Installation
@@ -29,9 +31,9 @@ Video Contents:
 - 14:29 TILT Document creation
 
 ### Transparency Logging Microservice Architecture Example
-Click on the following image to view a video of the demo architecture or view the video here: https://youtu.be/LzatJygsSNw (11:38 min)
+Click on the following image to view a video of the demo architecture or view the video here: https://example.com (11:38 min)
 
-[![Watch the video](./img/Microservice%20Architecture.png)](https://youtu.be/LzatJygsSNw)
+[![Watch the video](./img/Microservice%20Architecture.png)](https://example.com)
 
 Video Contents:
 - 0:00 kubectl & git clone
@@ -43,11 +45,11 @@ Video Contents:
 
 
 ### Process Transparency Dashboard
-Click on the following link to view a video of the transparency-dashboard: https://youtu.be/3G5gqu0c52I (14:19 min)
+Click on the following link to view a video of the transparency-dashboard: https://example.com (14:19 min)
 
 |Dashboard|Transparency Checked Process|
 |---|---|
-|[![Transparency Dashboard](./img/dashboard.png)](https://youtu.be/3G5gqu0c52I)|[![Architecture overview](./img/enhanced-normative-process.png)](https://youtu.be/3G5gqu0c52I)|
+|[![Transparency Dashboard](./img/dashboard.png)](https://example.com)|[![Architecture overview](./img/enhanced-normative-process.png)](https://example.com)|
 
 Video Contents:
 - 0:00 Dashboard access
