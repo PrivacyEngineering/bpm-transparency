@@ -4,11 +4,11 @@ This is the top-Level repository that overarches the contributions of the "Exten
 ## Repository Contents
 This repository contains the following submodules:
 
-1. [Modeler Plugin](https://github.com/PrivacyEngineering/bpm-transparency-plug-in)
-2. [Logging Descriptor](https://github.com/PrivacyEngineering/bpm-transparency-logger-lib)
-3. [Transparency logging microservice architecture example](https://github.com/PrivacyEngineering/bpm-transparency-demo)
-    - [Transparency Dashboard](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard)
-    - [Demo Data](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard/app/data/)
+1. [Modeler Plugin](https://github.com/PrivacyEngineering/bpm-transparency-plug-in) / https://anonymous.4open.science/r/plug-in
+2. [Logging Descriptor](https://github.com/PrivacyEngineering/bpm-transparency-logger-lib) / https://anonymous.4open.science/r/logger-lib
+3. [Transparency logging microservice architecture example](https://github.com/PrivacyEngineering/bpm-transparency-demo) / https://anonymous.4open.science/r/demo-architecture
+    - [Transparency Dashboard](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard) / https://anonymous.4open.science/r/demo-architecture/src/mining-dashboard
+    - [Demo Data](https://github.com/PrivacyEngineering/bpm-transparency-demo/tree/main/src/mining-dashboard/app/data/) / https://anonymous.4open.science/r/demo-architecture/src/mining-dashboard/app/data
 
 ## Contribution Overview
 ### _Video links are removed for review as they disclose the author names._
